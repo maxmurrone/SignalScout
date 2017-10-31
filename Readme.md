@@ -1,4 +1,4 @@
 Signal Scout - 
-Simula l'acquisizione dei segnali dai/dai plc 
-ne esegue l'interpretazione
-storicizza i segnali in un DB
+Simulatore di segnali letti dai plc.
+
+Stati + Allarmi storicizzati nel DB.
